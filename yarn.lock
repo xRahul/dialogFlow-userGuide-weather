@@ -1202,7 +1202,7 @@ firebase-admin@^4.2.1:
     faye-websocket "0.9.3"
     jsonwebtoken "7.1.9"
 
-firebase-functions@^0.5.7:
+firebase-functions@^0.5.0:
   version "0.5.9"
   resolved "https://registry.yarnpkg.com/firebase-functions/-/firebase-functions-0.5.9.tgz#74155c3fb42f3bb15a95793311664d14bf610a7a"
   dependencies:
