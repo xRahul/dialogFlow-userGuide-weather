@@ -1010,12 +1010,11 @@ detect-libc@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-1.0.3.tgz#fa137c4bd698edf55cd5cd02ac559f91a4c4ba9b"
 
-dialogflow-fulfillment@0.3.0-beta.3:
-  version "0.3.0-beta.3"
-  resolved "https://registry.yarnpkg.com/dialogflow-fulfillment/-/dialogflow-fulfillment-0.3.0-beta.3.tgz#24c81f707520edf01c69b0e3cb6de389b59fb55f"
+dialogflow-fulfillment@0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/dialogflow-fulfillment/-/dialogflow-fulfillment-0.4.1.tgz#bc5402152c94297924554d27b21024c4bbeb5369"
   dependencies:
-    actions-on-google "2.0.0-alpha.4"
-    debug "^2.2.0"
+    debug "^3.1.0"
 
 dialogflow@0.1.0:
   version "0.1.0"
