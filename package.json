@@ -11,7 +11,7 @@
     "start": "npm run build && node dist/index.js"
   },
   "dependencies": {
-    "actions-on-google": "2.2.0",
+    "actions-on-google": "2.11.0",
     "body-parser": "1.18.3",
     "dialogflow": "0.5.0",
     "dialogflow-fulfillment": "0.4.1",
